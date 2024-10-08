@@ -35,6 +35,13 @@ a {
 
 }
 
+
+
+.divyang{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .navActive {
 
   border: 1.5px solid #D07531;
